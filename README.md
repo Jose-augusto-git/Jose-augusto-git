@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="160em" src="https://user-images.githubusercontent.com/73261477/154606660-8967feca-4a38-4a3b-9722-7a5b49d785ad.gif">
+<!--  <img height="160em" src="https://user-images.githubusercontent.com/73261477/154606660-8967feca-4a38-4a3b-9722-7a5b49d785ad.gif">-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jose-augusto-git&theme=dark">
