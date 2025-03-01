@@ -44,3 +44,10 @@ Atualmente trabalho na área de QA Engineer, criando automação e testes manuai
 <div>
 <a href="https://www.linkedin.com/in/jos%C3%A9-augusto-8a21921b1/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+
+
+----------------------------------
+
+![Snake animation](https://github.com/Jose-augusto-git/Jose-augusto-git/blob/output/github-contribution-grid-snake.svg)
+
