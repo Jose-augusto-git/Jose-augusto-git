@@ -51,3 +51,4 @@ Atualmente trabalho na área de QA Engineer, criando automação e testes manuai
 
 ![Snake animation](https://github.com/Jose-augusto-git/Jose-augusto-git/blob/output/github-contribution-grid-snake.svg)
 
+
