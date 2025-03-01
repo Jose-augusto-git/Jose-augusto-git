@@ -14,22 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-<!--  <img height="160em" src="https://user-images.githubusercontent.com/73261477/154606660-8967feca-4a38-4a3b-9722-7a5b49d785ad.gif">-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-augusto-git&layout=compact&theme=dark">
-  <br>
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jose-augusto-git&theme=dark">-->
-  <img src="https://github-readme-stats.vercel.app/api?username=Jose-augusto-git&show_icons=true&theme=dark"/>
- 
-  	
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
-  
-  
+
+# Vida longa e próspera 🖖🏻
+
+🐽 Bem-vindo ao meu repositório me chamado <b> José </b>, onde contem alguns projetos pessoais que faço durante minha jornada na área de tecnologia.☕
+
+Atualmente trabalho na área de QA Engineer, criando automação e testes manuais. 🤖
+
+<img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b7611hzen3wnyb5u5uqujlo9ji54ct0b8eu3yc68ssncl&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+------------------
+
+# Tecnologias que mais usei  
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"   width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"  width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"   width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"   width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"   width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg"  width="40" height="40"/>
+
+---------------------------
+
+<div>
+<a href="https://github.com/Jose-augusto-git">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-augusto-git&layout=compact&langs_count=7&theme=tokyonight"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jose-augusto-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 
-<!--
-<div align="center">
-  <img src="https://github.com/Jose-augusto-git/Jose-augusto-git/blob/output/github-contribution-grid-snake.svg">
-</div> 
--->
+---------------------------
+## Contatos:
+
+<div>
+<a href="https://www.linkedin.com/in/jos%C3%A9-augusto-8a21921b1/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
